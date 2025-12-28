@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tech Shop</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="overview">Overview artikel singkat</string>
+    <string name="by_company">By Company</string>
+    <string name="region">Global</string>
+    <string name="judul_artikel">Judul Artikel</string>
+    <string name="category">Programming</string>
+    <string name="visit">Kunjungi Website</string>
+    <string name="describe">Deskripsi lengkap artikel</string>
+</resources>
